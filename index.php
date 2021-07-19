@@ -16,14 +16,14 @@
 <div class="load-animate animated fadeInUp">
 <div class="row">
 <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
-        <h2 class="title">INVOICE SYSTEM</h2>
+        <h2 class="title">Invoice</h2>
 <?php ?>
 </div>
 </div>
 <input id="currency" type="hidden" value="$">
 <div class="row">
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">        
-        <h3>FROM :</h3>
+        <h3>from :</h3>
 <?php  ['user']; ?>
 <?php  ['address']; ?>
 <?php  ['mobile']; ?>
